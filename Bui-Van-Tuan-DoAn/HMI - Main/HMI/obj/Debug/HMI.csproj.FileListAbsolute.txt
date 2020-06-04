@@ -1,0 +1,169 @@
+J:\Thuc tap tot nghiep\NguyenThanhTung_1141460211_code_ThucTapTotNghiep\HMI\HMI\obj\Debug\HMI.csprojResolveAssemblyReference.cache
+J:\Thuc tap tot nghiep\NguyenThanhTung_1141460211_code_ThucTapTotNghiep\HMI\HMI\obj\Debug\HMI.Control.resources
+J:\Thuc tap tot nghiep\NguyenThanhTung_1141460211_code_ThucTapTotNghiep\HMI\HMI\obj\Debug\HMI.Properties.Resources.resources
+J:\Thuc tap tot nghiep\NguyenThanhTung_1141460211_code_ThucTapTotNghiep\HMI\HMI\obj\Debug\HMI.csproj.GenerateResource.Cache
+J:\Thuc tap tot nghiep\NguyenThanhTung_1141460211_code_ThucTapTotNghiep\HMI\HMI\bin\Debug\HMI.exe.config
+J:\Thuc tap tot nghiep\NguyenThanhTung_1141460211_code_ThucTapTotNghiep\HMI\HMI\bin\Debug\HMI.exe
+J:\Thuc tap tot nghiep\NguyenThanhTung_1141460211_code_ThucTapTotNghiep\HMI\HMI\bin\Debug\HMI.pdb
+J:\Thuc tap tot nghiep\NguyenThanhTung_1141460211_code_ThucTapTotNghiep\HMI\HMI\bin\Debug\Newtonsoft.Json.dll
+J:\Thuc tap tot nghiep\NguyenThanhTung_1141460211_code_ThucTapTotNghiep\HMI\HMI\bin\Debug\Newtonsoft.Json.xml
+J:\Thuc tap tot nghiep\NguyenThanhTung_1141460211_code_ThucTapTotNghiep\HMI\HMI\obj\Debug\HMI.exe
+J:\Thuc tap tot nghiep\NguyenThanhTung_1141460211_code_ThucTapTotNghiep\HMI\HMI\obj\Debug\HMI.pdb
+J:\Thuc tap tot nghiep\nghien cuu khoa hoc\ALL\HMI - Copy\HMI\obj\Debug\HMI.csprojResolveAssemblyReference.cache
+J:\Thuc tap tot nghiep\nghien cuu khoa hoc\ALL\HMI - Copy\HMI\obj\Debug\HMI.Control.resources
+J:\Thuc tap tot nghiep\nghien cuu khoa hoc\ALL\HMI - Copy\HMI\obj\Debug\HMI.Properties.Resources.resources
+J:\Thuc tap tot nghiep\nghien cuu khoa hoc\ALL\HMI - Copy\HMI\obj\Debug\HMI.csproj.GenerateResource.Cache
+J:\Thuc tap tot nghiep\nghien cuu khoa hoc\ALL\HMI - Copy\HMI\obj\Debug\HMI.exe
+J:\Thuc tap tot nghiep\nghien cuu khoa hoc\ALL\HMI - Copy\HMI\obj\Debug\HMI.pdb
+J:\Thuc tap tot nghiep\nghien cuu khoa hoc\ALL\HMI - Copy\HMI\bin\Debug\HMI.exe.config
+J:\Thuc tap tot nghiep\nghien cuu khoa hoc\ALL\HMI - Copy\HMI\bin\Debug\HMI.exe
+J:\Thuc tap tot nghiep\nghien cuu khoa hoc\ALL\HMI - Copy\HMI\bin\Debug\HMI.pdb
+J:\Thuc tap tot nghiep\nghien cuu khoa hoc\ALL\HMI - Copy\HMI\bin\Debug\EntityFramework.dll
+J:\Thuc tap tot nghiep\nghien cuu khoa hoc\ALL\HMI - Copy\HMI\bin\Debug\EntityFramework.SqlServer.dll
+J:\Thuc tap tot nghiep\nghien cuu khoa hoc\ALL\HMI - Copy\HMI\bin\Debug\Newtonsoft.Json.dll
+J:\Thuc tap tot nghiep\nghien cuu khoa hoc\ALL\HMI - Copy\HMI\bin\Debug\System.Data.SQLite.dll
+J:\Thuc tap tot nghiep\nghien cuu khoa hoc\ALL\HMI - Copy\HMI\bin\Debug\System.Data.SQLite.EF6.dll
+J:\Thuc tap tot nghiep\nghien cuu khoa hoc\ALL\HMI - Copy\HMI\bin\Debug\System.Data.SQLite.Linq.dll
+J:\Thuc tap tot nghiep\nghien cuu khoa hoc\ALL\HMI - Copy\HMI\bin\Debug\ZedGraph.dll
+J:\Thuc tap tot nghiep\nghien cuu khoa hoc\ALL\HMI - Copy\HMI\bin\Debug\EntityFramework.xml
+J:\Thuc tap tot nghiep\nghien cuu khoa hoc\ALL\HMI - Copy\HMI\bin\Debug\EntityFramework.SqlServer.xml
+J:\Thuc tap tot nghiep\nghien cuu khoa hoc\ALL\HMI - Copy\HMI\bin\Debug\Newtonsoft.Json.xml
+J:\Thuc tap tot nghiep\nghien cuu khoa hoc\ALL\HMI - Copy\HMI\bin\Debug\System.Data.SQLite.xml
+J:\Thuc tap tot nghiep\nghien cuu khoa hoc\ALL\HMI - Copy\HMI\bin\Debug\System.Data.SQLite.dll.config
+J:\Thuc tap tot nghiep\nghien cuu khoa hoc\ALL\HMI - Copy\HMI\bin\Debug\ZedGraph.xml
+J:\Thuc tap tot nghiep\nghien cuu khoa hoc\ALL\HMI - Copy\HMI\bin\Debug\de\ZedGraph.resources.dll
+J:\Thuc tap tot nghiep\nghien cuu khoa hoc\ALL\HMI - Copy\HMI\bin\Debug\es\ZedGraph.resources.dll
+J:\Thuc tap tot nghiep\nghien cuu khoa hoc\ALL\HMI - Copy\HMI\bin\Debug\fr\ZedGraph.resources.dll
+J:\Thuc tap tot nghiep\nghien cuu khoa hoc\ALL\HMI - Copy\HMI\bin\Debug\hu\ZedGraph.resources.dll
+J:\Thuc tap tot nghiep\nghien cuu khoa hoc\ALL\HMI - Copy\HMI\bin\Debug\it\ZedGraph.resources.dll
+J:\Thuc tap tot nghiep\nghien cuu khoa hoc\ALL\HMI - Copy\HMI\bin\Debug\ja\ZedGraph.resources.dll
+J:\Thuc tap tot nghiep\nghien cuu khoa hoc\ALL\HMI - Copy\HMI\bin\Debug\pt\ZedGraph.resources.dll
+J:\Thuc tap tot nghiep\nghien cuu khoa hoc\ALL\HMI - Copy\HMI\bin\Debug\ru\ZedGraph.resources.dll
+J:\Thuc tap tot nghiep\nghien cuu khoa hoc\ALL\HMI - Copy\HMI\bin\Debug\sk\ZedGraph.resources.dll
+J:\Thuc tap tot nghiep\nghien cuu khoa hoc\ALL\HMI - Copy\HMI\bin\Debug\sv\ZedGraph.resources.dll
+J:\Thuc tap tot nghiep\nghien cuu khoa hoc\ALL\HMI - Copy\HMI\bin\Debug\tr\ZedGraph.resources.dll
+J:\Thuc tap tot nghiep\nghien cuu khoa hoc\ALL\HMI - Copy\HMI\bin\Debug\zh-cn\ZedGraph.resources.dll
+J:\Thuc tap tot nghiep\nghien cuu khoa hoc\ALL\HMI - Copy\HMI\bin\Debug\zh-tw\ZedGraph.resources.dll
+J:\Thuc tap tot nghiep\nghien cuu khoa hoc\ALL\HMI - Copy\HMI\obj\Debug\Interop.LCC11.dll
+J:\Thuc tap tot nghiep\nghien cuu khoa hoc\ALL\HMI - Copy\HMI\obj\Debug\Interop.MSINKDIVLib.dll
+J:\Thuc tap tot nghiep\nghien cuu khoa hoc\ALL\HMI - Copy\HMI\obj\Debug\HMI.csproj.ResolveComReference.cache
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\bin\Debug\HMI.exe.config
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\bin\Debug\HMI.exe
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\bin\Debug\HMI.pdb
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\bin\Debug\EntityFramework.dll
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\bin\Debug\EntityFramework.SqlServer.dll
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\bin\Debug\Newtonsoft.Json.dll
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\bin\Debug\System.Data.SQLite.dll
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\bin\Debug\System.Data.SQLite.EF6.dll
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\bin\Debug\System.Data.SQLite.Linq.dll
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\bin\Debug\ZedGraph.dll
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\bin\Debug\EntityFramework.xml
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\bin\Debug\EntityFramework.SqlServer.xml
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\bin\Debug\Newtonsoft.Json.xml
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\bin\Debug\System.Data.SQLite.xml
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\bin\Debug\System.Data.SQLite.dll.config
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\bin\Debug\ZedGraph.xml
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\bin\Debug\de\ZedGraph.resources.dll
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\bin\Debug\es\ZedGraph.resources.dll
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\bin\Debug\fr\ZedGraph.resources.dll
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\bin\Debug\hu\ZedGraph.resources.dll
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\bin\Debug\it\ZedGraph.resources.dll
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\bin\Debug\ja\ZedGraph.resources.dll
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\bin\Debug\pt\ZedGraph.resources.dll
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\bin\Debug\ru\ZedGraph.resources.dll
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\bin\Debug\sk\ZedGraph.resources.dll
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\bin\Debug\sv\ZedGraph.resources.dll
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\bin\Debug\tr\ZedGraph.resources.dll
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\obj\Debug\HMI.csprojAssemblyReference.cache
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\obj\Debug\Interop.LCC11.dll
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\obj\Debug\Interop.MSINKDIVLib.dll
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\obj\Debug\HMI.csproj.ResolveComReference.cache
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\obj\Debug\HMI.Control.resources
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\obj\Debug\HMI.Properties.Resources.resources
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\obj\Debug\HMI.csproj.GenerateResource.cache
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\obj\Debug\HMI.csproj.CoreCompileInputs.cache
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\obj\Debug\HMI.csproj.CopyComplete
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\obj\Debug\HMI.exe
+E:\New folder (2)\FIle-Do-An\HMI - Main\HMI\obj\Debug\HMI.pdb
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\bin\Debug\HMI.exe.config
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\bin\Debug\HMI.exe
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\bin\Debug\HMI.pdb
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\bin\Debug\EntityFramework.dll
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\bin\Debug\EntityFramework.SqlServer.dll
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\bin\Debug\Newtonsoft.Json.dll
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\bin\Debug\System.Data.SQLite.dll
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\bin\Debug\System.Data.SQLite.EF6.dll
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\bin\Debug\System.Data.SQLite.Linq.dll
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\bin\Debug\ZedGraph.dll
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\bin\Debug\EntityFramework.xml
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\bin\Debug\EntityFramework.SqlServer.xml
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\bin\Debug\Newtonsoft.Json.xml
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\bin\Debug\System.Data.SQLite.xml
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\bin\Debug\System.Data.SQLite.dll.config
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\bin\Debug\ZedGraph.xml
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\bin\Debug\de\ZedGraph.resources.dll
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\bin\Debug\es\ZedGraph.resources.dll
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\bin\Debug\fr\ZedGraph.resources.dll
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\bin\Debug\hu\ZedGraph.resources.dll
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\bin\Debug\it\ZedGraph.resources.dll
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\bin\Debug\ja\ZedGraph.resources.dll
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\bin\Debug\pt\ZedGraph.resources.dll
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\bin\Debug\ru\ZedGraph.resources.dll
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\bin\Debug\sk\ZedGraph.resources.dll
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\bin\Debug\sv\ZedGraph.resources.dll
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\bin\Debug\tr\ZedGraph.resources.dll
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\obj\Debug\HMI.csprojAssemblyReference.cache
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\obj\Debug\Interop.LCC11.dll
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\obj\Debug\Interop.MSINKDIVLib.dll
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\obj\Debug\HMI.csproj.ResolveComReference.cache
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\obj\Debug\HMI.Control.resources
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\obj\Debug\HMI.Properties.Resources.resources
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\obj\Debug\HMI.csproj.GenerateResource.cache
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\obj\Debug\HMI.csproj.CoreCompileInputs.cache
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\obj\Debug\HMI.csproj.CopyComplete
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\obj\Debug\HMI.exe
+E:\New folder (2)\FIle-Do-An - Copy\HMI - Main\HMI\obj\Debug\HMI.pdb
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\bin\Debug\HMI.exe.config
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\bin\Debug\HMI.exe
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\bin\Debug\HMI.pdb
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\bin\Debug\EntityFramework.dll
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\bin\Debug\EntityFramework.SqlServer.dll
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\bin\Debug\Newtonsoft.Json.dll
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\bin\Debug\System.Data.SQLite.dll
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\bin\Debug\System.Data.SQLite.EF6.dll
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\bin\Debug\System.Data.SQLite.Linq.dll
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\bin\Debug\ZedGraph.dll
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\bin\Debug\EntityFramework.xml
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\bin\Debug\EntityFramework.SqlServer.xml
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\bin\Debug\Newtonsoft.Json.xml
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\bin\Debug\System.Data.SQLite.xml
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\bin\Debug\System.Data.SQLite.dll.config
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\bin\Debug\ZedGraph.xml
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\bin\Debug\de\ZedGraph.resources.dll
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\bin\Debug\es\ZedGraph.resources.dll
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\bin\Debug\fr\ZedGraph.resources.dll
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\bin\Debug\hu\ZedGraph.resources.dll
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\bin\Debug\it\ZedGraph.resources.dll
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\bin\Debug\ja\ZedGraph.resources.dll
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\bin\Debug\pt\ZedGraph.resources.dll
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\bin\Debug\ru\ZedGraph.resources.dll
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\bin\Debug\sk\ZedGraph.resources.dll
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\bin\Debug\sv\ZedGraph.resources.dll
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\bin\Debug\tr\ZedGraph.resources.dll
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\obj\Debug\HMI.csprojAssemblyReference.cache
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\obj\Debug\Interop.LCC11.dll
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\obj\Debug\Interop.MSINKDIVLib.dll
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\obj\Debug\HMI.csproj.ResolveComReference.cache
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\obj\Debug\HMI.Control.resources
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\obj\Debug\HMI.Properties.Resources.resources
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\obj\Debug\HMI.csproj.GenerateResource.cache
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\obj\Debug\HMI.csproj.CoreCompileInputs.cache
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\obj\Debug\HMI.csproj.CopyComplete
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\obj\Debug\HMI.exe
+E:\DoAn\Bui-Van-Tuan-DoAn\HMI - Main\HMI\obj\Debug\HMI.pdb
